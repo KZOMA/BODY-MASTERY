@@ -16,7 +16,7 @@
 
 ### 🔄 Routine complémentaire · 4 fois par semaine
 
-**7 exercices** pour développer la mobilité, la souplesse, la force articulaire, l'explosivité et l'agilité, en complément des séances de musculation.
+**7 exercices** 10 min avant séance de musculation pour développer la mobilité, la souplesse, la force articulaire, l'explosivité et l'agilité, en complément des séances de musculation.
 
 | # | Exercice | Capacités développées | Séries × répétitions |
 | --- | --- | --- | --- |
@@ -27,8 +27,6 @@
 | 5 | 🙆 **Shoulder CARs au sol** | Mobilité et contrôle des épaules | 1 × 5 allers-retours |
 | 6 | ⚡ **Squat Jumps** | Explosivité des jambes | 2 × 5 |
 | 7 | 🥊 **Reactive Footwork** | Agilité, coordination, équilibre et réactivité | 2 × 20 s |
-
-**Repères :** exécuter les mouvements sans douleur et avec contrôle. Commencer avec une faible amplitude sur le Reverse Nordic Curl ; privilégier la qualité des sauts et des réactions. Adapter le volume si la récupération devient insuffisante. L'étirement statique des hanches peut se faire après la séance.
 
 ### 📅 Séances de musculation
 
