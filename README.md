@@ -7,3 +7,80 @@
 🎯 **À long terme :** élargir nos capacités, progresser dans nos mouvements et apprendre à mieux utiliser notre corps.
 
 🤸 **Et la calisthénie ?** Elle fait aussi partie de nos pratiques, mais reste facultative.
+
+---
+
+## 🏋️ Phase 1 : notre programme hebdomadaire
+
+**4 séances par semaine** pour construire une base solide : deux séances axées sur la force, puis deux autres sur le développement musculaire, le gainage et le renforcement utile à la boxe.
+
+| Jour | Séance | Objectif |
+| --- | --- | --- |
+| **Lundi** | 💪 Haut A | Force |
+| **Mardi** | 🦵 Bas A | Force |
+| **Jeudi** | 💪 Haut B | Volume musculaire |
+| **Vendredi** | 🦵 Bas B | Volume + gainage |
+| **Samedi** | 🚴 Cardio (facultatif) | Endurance en zone 2 |
+
+### 💪 Lundi · Haut A (force)
+
+| Exercice | Séries × répétitions |
+| --- | --- |
+| Développé couché haltères | 4 × 6–8 |
+| Tractions | 4 × 6–8 |
+| Développé militaire barre | 3 × 6–8 |
+| Tirage horizontal poulie, prise serrée | 3 × 8–10 |
+| Curl barre EZ + barre au front *(superset)* | 3 × 8–10 |
+| Oiseau poulie vis-à-vis | 3 × 15 |
+| Rotation externe poulie | 2 × 15 |
+| Crunch poulie haute | 3 × 12–15 |
+| Dead bug | 3 × 8 par côté |
+
+### 🦵 Mardi · Bas A (force)
+
+| Exercice | Séries × répétitions |
+| --- | --- |
+| Soulevé de terre trap bar | 4 × 5 |
+| Presse horizontale | 4 × 8–10 |
+| Hip thrust | 3 × 8–10 |
+| Leg curl | 3 × 10–12 |
+| Leg extension | 3 × 12–15 |
+| Mollets debout | 3 × 12–15 |
+| Pallof press | 3 × 10 par côté |
+
+### 💪 Jeudi · Haut B (volume)
+
+| Exercice | Séries × répétitions |
+| --- | --- |
+| Développé couché Smith, banc légèrement incliné | 4 × 8–12 |
+| Tractions prise neutre | 4 × max |
+| Poulie vis-à-vis du bas vers le haut | 3 × 12–15 |
+| Rowing poitrine appuyée | 3 × 10–12 |
+| Élévations latérales haltères | 3 × 15 |
+| Curl incliné haltères + extension corde au-dessus de la tête *(superset)* | 3 × 12 |
+| Y-T-W sur banc incliné | 2 × 10 |
+| Relevé de genoux suspendu | 3 × 10–12 |
+| Planche latérale | 3 × 30 s par côté |
+
+### 🦵 Vendredi · Bas B (volume + gainage)
+
+| Exercice | Séries × répétitions |
+| --- | --- |
+| Soulevé de terre jambes tendues haltères | 4 × 8 |
+| Presse horizontale | 3 × 10–12 |
+| Step-up bas | 3 × 10 par jambe |
+| Leg curl | 3 × 12 |
+| Gainage Copenhague | 3 × 20 s par côté |
+| Farmer walk | 4 × 30 m |
+| Woodchop poulie | 3 × 10 par côté |
+| Finisher rameur | 8 × 30 s fort / 90 s léger |
+
+### 🚴 Samedi · Cardio facultatif
+
+**30 à 40 minutes en zone 2**, à intensité modérée.
+
+### 📈 Comment progresser ?
+
+- **Même charge** tant que toutes les séries n'atteignent pas le haut de leur fourchette de répétitions.
+- **Puis augmenter la charge :** +2 kg pour le haut du corps et +5 kg pour le bas du corps.
+- **Garder une marge :** terminer les séries à environ 1 à 2 répétitions de l'échec.
