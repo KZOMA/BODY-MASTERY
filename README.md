@@ -14,6 +14,24 @@
 
 **4 séances par semaine** pour construire une base solide : deux séances axées sur la force, puis deux autres sur le développement musculaire, le gainage et le renforcement utile à la boxe.
 
+### 🔄 Routine complémentaire · 4 fois par semaine
+
+**7 exercices** pour développer la mobilité, la souplesse, la force articulaire, l'explosivité et l'agilité, en complément des séances de musculation.
+
+| # | Exercice | Capacités développées | Séries × répétitions |
+| --- | --- | --- | --- |
+| 1 | 🔄 **Rotation thoracique** | Mobilité du dos et rotation du buste | 1 × 8 par côté |
+| 2 | 🧘 **Transitions 90/90** | Mobilité et contrôle des hanches | 1 × 8 transitions |
+| 3 | 🤸 **Étirement des fléchisseurs de hanche** | Souplesse et amplitude des hanches | 1 × 30 s par côté |
+| 4 | 🦵 **Reverse Nordic Curl** | Force des quadriceps et contrôle des genoux | 1 × 5 |
+| 5 | 🙆 **Shoulder CARs au sol** | Mobilité et contrôle des épaules | 1 × 5 allers-retours |
+| 6 | ⚡ **Squat Jumps** | Explosivité des jambes | 2 × 5 |
+| 7 | 🥊 **Reactive Footwork** | Agilité, coordination, équilibre et réactivité | 2 × 20 s |
+
+**Repères :** exécuter les mouvements sans douleur et avec contrôle. Commencer avec une faible amplitude sur le Reverse Nordic Curl ; privilégier la qualité des sauts et des réactions. Adapter le volume si la récupération devient insuffisante. L'étirement statique des hanches peut se faire après la séance.
+
+### 📅 Séances de musculation
+
 | Jour | Séance | Objectif |
 | --- | --- | --- |
 | **Lundi** | 💪 Haut A | Force |
