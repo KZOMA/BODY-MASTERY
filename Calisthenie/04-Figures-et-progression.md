@@ -1,45 +1,80 @@
-# 🤸 Figures & progression sur 24 mois
+# 🤸 Figures & parcours de maîtrise
 
-**Objectif : développer une maîtrise complète, pas collectionner des figures.** Ce parcours est une carte d'exploration, **pas un calendrier de réussite garanti**. Avec trois mois de pratique légère et quatre séances de musculation, la vitesse dépendra de la force actuelle, de la technique et de la récupération.
+> **L'objectif :** un corps capable de tenir une position, **mais aussi de s'y déplacer, d'en sortir et d'enchaîner les mouvements**.
 
-## 15 mouvements à explorer
-| Famille | Figure ou compétence | Progression indicative |
-| --- | --- | --- |
-| Poussée | Pompes strictes et variantes | Incliné → sol → archer |
-| Tirage | Tractions strictes | Assistance → strictes → lestées |
-| Appuis | Dips stricts | Assistance → amplitude contrôlée |
-| Suspension | Active hang / scapular pull-up | Suspension facile → active → répétitions |
-| Gainage | Hollow body hold | Tuck → jambes étendues |
-| Compression | L-sit | Tuck sit → une jambe → L-sit |
-| Équilibre | Handstand | Mur → sorties contrôlées → libre |
-| Poussée verticale | Pike push-up / handstand push-up | Pike → pieds surélevés → mur |
-| Tirage horizontal | Front lever | Tuck → advanced tuck → straddle → complet |
-| Poussée horizontale | Planche | Planche lean → tuck → advanced tuck |
-| Tirage explosif | Muscle-up | Tractions hautes + transition assistée → strict |
-| Contrôle unilatéral | Archer pull-up / traction un bras | Archer → assistée ; option très avancée |
-| Contrôle latéral | Human flag | Gainage latéral → tuck flag |
-| Jambes | Pistol squat | Box squat une jambe → assisté → libre |
-| Chaîne postérieure | Nordic curl | Excentrique assisté → amplitude accrue |
+Ce catalogue est une **carte de compétences**, pas une liste à terminer en deux ans. Certaines figures avancées demandent plusieurs années de travail spécifique.
 
-Les compétences de base (suspension, appui, gainage, squat unilatéral) ont autant de valeur que les figures spectaculaires.
+## 📍 Point de départ connu
 
-## Feuille de route
-### Mois 1 à 6 : fondations
-Tractions, pompes, dips adaptés, suspension active, hollow hold, mobilité des poignets et épaules, tuck L-sit, handstand au mur et progression de pistol squat.
+- ✅ **L-sit** : acquis.
+- ✅ **Pistol squat** : acquis.
+- 🔄 **Front lever et planche** : en apprentissage.
+- 🎯 **Handstand** : difficulté actuelle, priorité technique intéressante.
+- 🎯 **Human flag** : pas encore travaillé ; renforcer le contrôle latéral du tronc.
+- 🌪️ **Mouvement dynamique** : intérêt particulier pour le breaking, le floorwork et les figures de force en déplacement.
 
-### Mois 7 à 12 : contrôle et premières figures
-L-sit, équilibre sur les mains, pike push-up, tuck front lever, planche lean, tractions hautes et travail unilatéral assisté.
+## 🧠 Comprendre les familles
 
-### Mois 13 à 18 : leviers et transitions
-Advanced tuck front lever, tuck planche selon tolérance, muscle-up progressif, handstand libre, Nordic assisté, préparation human flag.
+**Statique :** maintenir une position (front lever, planche). **Dynamique :** produire de la force pendant une amplitude (front lever rows, planche push-ups). **Équilibre / inversion :** contrôler le centre de masse sur les mains (handstand). **Mouvement spatial :** changer d'appui, de direction et d'orientation (cartwheel, swipes, flares).
 
-### Mois 19 à 24 : approfondissement
-Consolider les figures déjà acquises, éventuellement front lever/planche plus longs, handstand push-up au mur, human flag ou progression vers traction un bras. **Certaines figures peuvent prendre bien plus de deux ans.**
+## 🎯 Catalogue de compétences
 
-## Comment valider une progression ?
-- Amplitude et alignement propres, sans compensation.
-- Plusieurs répétitions ou maintiens reproductibles sur plusieurs séances.
-- Aucune douleur articulaire pendant et après.
-- Capacité à répéter la compétence après récupération.
+| Famille | Fondations | Avancé | Expertise / optionnel |
+| --- | --- | --- | --- |
+| **Tirage** | Tractions, active hang, rows | Chest-to-bar, archer pull-up, muscle-up | Traction à un bras |
+| **Front lever** | Tuck, advanced tuck | Front lever complet, raises, rows partiels | Front lever pull-ups complets |
+| **Poussée** | Pompes, dips, pike push-ups | Archer push-ups, handstand push-up au mur | 90-degree push-up |
+| **Planche** | Planche lean, tuck | Advanced tuck, straddle planche | Full planche push-ups |
+| **Équilibre** | Handstand au mur, sortie contrôlée | Handstand libre, marche sur les mains | Handstand à un bras |
+| **Appui/compression** | L-sit ✅, tuck press | V-sit, press-to-handstand | Manna |
+| **Contrôle latéral** | Side plank, Pallof press | Tuck human flag, flag raises assistés | Human flag complet dynamique |
+| **Jambes** | Pistol squat ✅, Nordic assisté | Shrimp squat, Nordic plus profond | Sauts et réceptions complexes |
+| **Anneaux** | Support assisté, ring rows | Ring dips, support stable | Iron cross, Maltese : spécialisation extrême |
+| **Doigts** | Appuis gradués sur support haut | Pompes sur doigts si préparation suffisante | Planche sur doigts : spécialisation extrême |
 
-**Priorité :** choisir **2 figures principales à la fois** (par exemple handstand + L-sit), conserver les bases et changer d'objectif seulement après consolidation. Les figures à leviers longs demandent un volume très progressif.
+Les compétences à risque élevé, notamment sur les doigts et sur anneaux bras tendus, **ne sont pas des étapes obligatoires**.
+
+### 🌪️ Figures en mouvement
+
+Un volet spécifique leur est consacré : **[06 · Mouvements dynamiques & breaking](06-Figures-dynamiques-et-breaking.md)**.
+
+Il comprend six-step, CC, kick-out, transitions au sol, cartwheel, macaco, déplacements sur les mains, swipes, windmills, flares et airflares (niveau expert encadré).
+
+## 🗓️ Horizon de 24 mois : priorités, pas promesses
+
+**Mois 1–6 : organiser les bases.** Consolider L-sit et pistol squat sans leur consacrer toute la séance. Travailler proprement les progressions front lever/planche ; apprendre le handstand au mur, les sorties et le six-step.
+
+**Mois 7–12 : contrôler et relier.** Améliorer les maintiens et transitions, explorer front lever raises/rows adaptés, handstand libre, footwork fluide et premiers passages dynamiques à faible impact.
+
+**Mois 13–18 : augmenter la difficulté selon les acquis.** Avancer sur les leviers, pike/HSPU, muscle-up si la base existe, swipes ou flares préparatoires avec encadrement.
+
+**Mois 19–24 : construire un langage de mouvement.** Combiner gestes maîtrisés, équilibre, force et transitions. Les objectifs extrêmes (one-arm handstand, full planche push-ups, airflare, planche sur les doigts) restent **hors échéancier obligatoire**.
+
+## 🧭 Comment choisir ?
+
+Avec musculation + boxe, éviter de poursuivre **cinq figures maximales en même temps**.
+
+- **Deux chantiers de force exigeants au maximum** : par exemple front lever et planche.
+- **Un chantier technique léger** : handstand, travaillé régulièrement sans épuisement.
+- **Un chantier de fluidité** : six-step, changements d'appuis et transitions.
+- **Tronc latéral :** travail simple pour préparer le human flag, sans en faire aussitôt une troisième figure lourde.
+
+## ✅ Valider une progression
+
+Une figure est réellement acquise quand elle est **reproductible, contrôlée, sans douleur et récupérable**. Filmer quelques essais pour juger l'alignement, pas seulement la durée.
+
+## ⚠️ À éviter
+
+- Passer de tuck à bras de levier tendu uniquement parce qu'une tentative “passe”.
+- Compter le one-arm handstand comme une version juste un peu plus difficile du handstand.
+- Forcer des pompes sur les doigts sans préparation spécifique.
+- Confondre force générale et préparation à l'impact ou aux rotations.
+
+## ✅ À retenir
+
+**Priorité au transfert :** apprendre à pousser, tirer, s'équilibrer, tourner, se réceptionner et enchaîner.
+
+### 📚 Sources
+- [ACSM : progression de la force (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/)
+- [Revue biomécanique du handstand (2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12745452/)
+- [Les composantes du breaking](https://www.redbull.com/int-en/understand-the-basic-elements-of-breaking)
